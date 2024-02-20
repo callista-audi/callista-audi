@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callista-audi&label=Profile%20views&color=0e75b6&style=flat" alt="callista-audi" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://portofoliocallista.000webhostapp.com/](https://portofoliocallista.000webhostapp.com/)
+- 👨‍💻 All of my projects are available at [https://callistaportofolio.netlify.app/](https://callistaportofolio.netlify.app/)
 
 - 📫 How to reach me **callistaaudi23@gmail.com**
 
